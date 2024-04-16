@@ -75,3 +75,5 @@ if human_player.life_points > 0
 else
     puts "Losers ! Retourne taper des pious !"
 end
+
+binding.pry

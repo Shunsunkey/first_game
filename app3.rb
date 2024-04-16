@@ -28,3 +28,5 @@ while my_game.is_still_ongoing?
 end
 
 puts "\n#{my_game.end_game}"
+
+binding.pry

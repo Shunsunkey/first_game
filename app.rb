@@ -23,3 +23,5 @@ player1.attacks(player2)
 puts "José retourne la politesse on dirait, quel gentleman !"
 player2.attacks(player1)
     end
+
+binding.pry
